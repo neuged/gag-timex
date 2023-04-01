@@ -47,6 +47,15 @@ def parse_timex(elem)
   years.map { |year| is_bc ? year * -1 : year }
 end
 
+def parse_timexinterval(elem)
+  results = [
+    ((elem['earliestBegin'].to_i + elem['latestBegin'].to_i )/ 2).to_i,
+    ((elem['earliestEnd'].to_i + elem['latestEnd'].to_i) / 2).to_i,
+  ]
+  results.any? {|i| !(i in -15000..2050)} ? [] : results  # exclude geological times, probably FP
+end
+
+
 CSV.open("results.csv", "w") do |csv|
   csv << %w[title min max center mean all_years used_expressions ignored_expressions text]
 
@@ -59,13 +68,18 @@ CSV.open("results.csv", "w") do |csv|
     years = []
     used = []
     ignored = []
+
     REXML::XPath.match(doc, "root/TIMEX3[@type='DATE']").each do |timex|
       timex_years = parse_timex(timex)
-      if timex_years.size > 0
-        used.push timex.text
-        years += timex_years
-      else
-        ignored.push timex.text
+      years += timex_years
+      (timex_years.empty? ? ignored : used).push(timex.text)
+    end
+
+    if years.empty?  # Use temponyms as a backup only
+      REXML::XPath.match(doc, "//TIMEX3INTERVAL[TIMEX3[@type='TEMPONYM']]").each do |elem|
+        elem_years = parse_timexinterval(elem)
+        years += elem_years
+        (elem_years.empty? ? ignored : used).push(elem.get_elements('TIMEX3').first.text)
       end
     end
 
