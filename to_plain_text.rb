@@ -14,7 +14,7 @@ REXML::XPath.match(doc, "rss/channel/item").each do |episode|
 
   # remove references to books which often contain years
   description = episode.elements["description"].text
-  lines = description.lines.take_while { |l| !l.match(/^\/\/Literatur/) }
+  lines = description.lines.take_while { |l| !l.match(/^\/\//) }  # Remove reference sections like "//Literatur" etc.
   lines = lines.filter { |l| !l.match(/erwähnt/i) }
 
   puts "---#{title}---"
