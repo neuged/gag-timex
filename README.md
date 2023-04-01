@@ -3,7 +3,7 @@
 
 Parsing time expressions from the podcast feed of [Geschichten aus der Geschichte](https://geschichte.fm)
 
-Using a (modified) [heideltime](https://github.com/HeidelTime/heideltime) ((modified fork)[https://github.com/dainst/heideltime])
+Using a (modified) [heideltime](https://github.com/HeidelTime/heideltime) ([modified fork](https://github.com/dainst/heideltime))
 
 Data included. Have a look at [results.csv](results.csv) for episode year ranges
 
