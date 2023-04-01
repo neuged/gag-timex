@@ -50,7 +50,7 @@ end
 CSV.open("results.csv", "w") do |csv|
   csv << %w[title min max center mean all_years used_expressions ignored_expressions text]
 
-  text = prepare_text("./feed_descriptions.timeml")
+  text = prepare_text("./feed_annotated.timeml")
   text.split(/^---/).each do |section|
     title = section.lines[0].gsub(/---/, "")
     title.gsub!(/<[^>]*>/, "")
