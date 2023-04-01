@@ -60,9 +60,15 @@ CSV.open("results.csv", "w") do |csv|
   csv << %w[title min max center mean all_years used_expressions ignored_expressions text]
 
   text = prepare_text("./feed_annotated.timeml")
-  text.split(/^---/).each do |section|
-    title = section.lines[0].gsub(/---/, "")
-    title.gsub!(/<[^>]*>/, "")
+  text.split(/^---/)[1..].each do |section|
+    title = section.lines[0]
+    episode_text = section.lines.join
+    [title, episode_text].each do |s|
+      s.gsub!(/---/, "")
+      s.gsub!(/<[^>]*>/, "")
+      s.gsub!(/\s+/, " ")
+      s.strip!
+    end
 
     doc = REXML::Document.new("<root>#{section}</root>")
     years = []
@@ -92,7 +98,7 @@ CSV.open("results.csv", "w") do |csv|
       years.to_s,
       used.to_s,
       ignored.to_s,
-      REXML::XPath.match(doc, './/text()').join
+      episode_text
     ]
   end
 end
