@@ -44,10 +44,10 @@ def parse_timex(elem)
 end
 
 CSV.open("results.csv", "w") do |csv|
-  csv << ["title", "min", "max", "center", "mean", "all_years", "used_expressions", "ignored_expressions"]
+  csv << %w[title min max center mean all_years used_expressions ignored_expressions text]
 
   text = prepare_text("./feed_descriptions.timeml")
-  text.split(/^---/).each_with_index do |section, idx|
+  text.split(/^---/).each do |section|
     title = section.lines[0].gsub(/---/, "")
     title.gsub!(/<[^>]*>/, "")
 
@@ -72,7 +72,8 @@ CSV.open("results.csv", "w") do |csv|
       (years.sum / years.size).to_i,
       years.to_s,
       used.to_s,
-      ignored.to_s
+      ignored.to_s,
+      REXML::XPath.match(doc, './/text()').join
     ] : []
     csv << [title, *values]
   end
