@@ -69,17 +69,17 @@ CSV.open("results.csv", "w") do |csv|
       end
     end
 
-    values = years.size > 0 ? [
-      years.min,
-      years.max,
-      ((years.min + years.max) / 2).to_i,
-      (years.sum / years.size).to_i,
+    csv << [
+      title,
+      years.empty? ? "" : years.min,
+      years.empty? ? "" : years.max,
+      years.empty? ? "" : ((years.min + years.max) / 2).to_i,
+      years.empty? ? "" : (years.sum / years.size).to_i,
       years.to_s,
       used.to_s,
       ignored.to_s,
       REXML::XPath.match(doc, './/text()').join
-    ] : []
-    csv << [title, *values]
+    ]
   end
 end
 
