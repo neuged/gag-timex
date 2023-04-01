@@ -17,6 +17,10 @@ end
 $unhandled_timex = []
 
 def parse_timex(elem)
+  # ignore most relative timexes, especially month names
+  # which are often false positives and/or badly dereferenced
+  return [] unless elem.text.match?(/[0-9]/)
+
   value = elem['value']
 
   is_bc = false
@@ -27,12 +31,12 @@ def parse_timex(elem)
 
   years = []
   case value
-  when /^[0-9]{4}-?/
+  when /^[0-9]{4}-?/  # single years or more specific
     years.push value.slice(0, 4).to_i
-  when /^[0-9]{3}$/
+  when /^[0-9]{3}$/  # decades
     years.push (value.slice(0, 3) + '0').to_i
     years.push (value.slice(0, 3) + '9').to_i
-  when /^[0-9]{2}$/
+  when /^[0-9]{2}$/  # centuries
     years.push (value.slice(0, 2) + '00').to_i
     years.push (value.slice(0, 2) + '99').to_i
   when /(PRESENT_REF|FUTURE_REF)/

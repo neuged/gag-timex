@@ -1,8 +1,8 @@
-title,min,max,center,mean,all_years,used_expressions,ignored_expressions,cleaned_text
+title,min,max,center,mean,all_years,used_expressions,ignored_expressions,text
 "
 "
 "GAG392: Phosphor und der Streik der Streichholzarbeiterinnen
-",1888,1888,1888,1888,"[1888, 1888, 1888]","[""Sommer 1888"", ""May"", ""May""]",[],"GAG392: Phosphor und der Streik der Streichholzarbeiterinnen---
+",1888,1888,1888,1888,[1888],"[""Sommer 1888""]","[""May"", ""May""]","GAG392: Phosphor und der Streik der Streichholzarbeiterinnen---
 Im Sommer 1888 legen Frauen in der Streichholzfabrik Bryant &amp; May im Londoner East End ihre Arbeit nieder. Sie streiken gegen die desolaten Arbeitsbedingungen: geringe Bezahlung, ständige Lohnstrafen und massive Gesundheitsgefährdung durch Phosphor. Am Ende gelingt, was ihnen niemand zugetraut hätte. Bryant &amp; May geht auf ihre Forderungen ein und sie gründen eine eigene Gewerkschaft. 
 
 Wir sprechen in der Folge über Phosphor, die Entwicklung zum Sicherheitszündholz und warum der Streik der Streichholzarbeiterinnen lange Zeit nur als kleine Fußnote der Gewerkschafts- und Streikgeschichte behandelt wurde.
@@ -60,7 +60,7 @@ Wir sprechen in dieser Folge über Nurhaci, dessen Anstrengungen nicht nur in de
 
 "
 "GAG386: Der Wettlauf zum Nordpol
-",30,1899,964,757,"[30, 30, 1800, 1899, 30]","[""August"", ""der zweiten Hälfte"", ""19. Jahrhunderts"", ""August""]",[],"GAG386: Der Wettlauf zum Nordpol---
+",1800,1899,1849,1849,"[1800, 1899]","[""19. Jahrhunderts""]","[""August"", ""der zweiten Hälfte"", ""August""]","GAG386: Der Wettlauf zum Nordpol---
 August Petermann, einer der einflussreichsten Kartographen seiner Zeit, war davon überzeugt, dass das Nordpolarmeer eisfrei ist, umgeben von einem Packeisgürtel. Zahlreiche Expeditionen fuhren in der zweiten Hälfte des 19. Jahrhunderts Richtung Arktis, in der Hoffnung, den Nordpol mit dem Schiff zu erreichen. Eine Hoffnung, die oft in einer jahrelangen Drift mit dem Schiff, eingefroren im Eis, endete. Oder mit einem Schiff, das von den Eismaßen zerquetscht wurde.
 
 Wir sprechen in der Folge über das Leben von August Petermann, wie er den Arktis-Wettlauf vorantrieb und wie das Rennen um den Nordpol letztlich entschieden wurde.
@@ -533,7 +533,7 @@ Wir freuen uns, wenn ihr den Podcast bei Apple Podcasts rezensiert oder bewertet
 Wir freuen uns auch immer, wenn ihr euren Freundinnen und Freunden, Kolleginnen und Kollegen oder sogar Nachbarinnen und Nachbarn von uns erzählt!
 "
 "GAG357: Mary Kingsley
-",1893,1897,1895,1895,"[1893, 1897]","[""Jahr 1893"", ""vier Jahre später""]",[],"GAG357: Mary Kingsley---
+",1893,1893,1893,1893,[1893],"[""Jahr 1893""]","[""vier Jahre später""]","GAG357: Mary Kingsley---
 Wir springen in dieser Folge ins viktorianische England, wo sich im Jahr 1893 die 30-jährige Mary Kingsley aufmacht, den Westen Afrikas zu erforschen. Nur vier Jahre später wird sie eine berühmte Autorin und die bekannteste Afrikanistin Großbritanniens sein - und all das ohne eine formale Ausbildung.
 
 "
@@ -724,7 +724,7 @@ Du möchtest mehr über unsere Werbepartner erfahren? [**Hier findest du alle In
 **Wir freuen uns auch immer, wenn ihr euren Freundinnen und Freunden, Kolleginnen und Kollegen oder sogar Nachbarinnen und Nachbarn von uns erzählt!**
 "
 "GAG343: Phoebus und die geplante Obsoleszenz
-",1883,2014,1948,1940,"[1900, 1999, 1924, 1924, 2014, 1883]","[""20. Jahrhundert"", ""Jahres 1924"", ""Weihnachtsabend"", ""2014"", ""Jahr 1883""]",[],"GAG343: Phoebus und die geplante Obsoleszenz---
+",1883,2014,1948,1944,"[1900, 1999, 1924, 2014, 1883]","[""20. Jahrhundert"", ""Jahres 1924"", ""2014"", ""Jahr 1883""]","[""Weihnachtsabend""]","GAG343: Phoebus und die geplante Obsoleszenz---
 Wir springen in dieser Folge ins frühe 20. Jahrhundert, genauer an den 24.12. des Jahres 1924. An diesem Weihnachtsabend treffen Vertreter der größten Glühbirnenhersteller weltweit zusammen, um etwas zu gründen, das sie Phoebus nennen werden. Obwohl der Zusammenschluss nicht länger als 15 Jahre halten wird, werden dessen Folgen noch lange anhalten.
 
 Wir werden über diese Folgen, aber auch über das Prinzip, dem die Machenschaften des Kartells zugrunde liegen, sprechen: die geplante Obsoleszenz.
@@ -859,7 +859,7 @@ Wir freuen uns, wenn ihr den Podcast bei Apple Podcasts rezensiert oder bewertet
 Wir freuen uns auch immer, wenn ihr euren Freundinnen und Freunden, Kolleginnen und Kollegen oder sogar Nachbarinnen und Nachbarn von uns erzählt!
 "
 "GAG334: Rachel Carson und der stumme Frühling
-",1872,1969,1920,1933,"[1872, 1960, 1969]","[""Frühling"", ""1960er-Jahre""]",[],"GAG334: Rachel Carson und der stumme Frühling---
+",1960,1969,1964,1964,"[1960, 1969]","[""1960er-Jahre""]","[""Frühling""]","GAG334: Rachel Carson und der stumme Frühling---
 Wir beschäftigen uns in dieser Folge zunächst mit einem Tier, das die Wissenschaft lange Zeit vor große Rätsel gestellt hat – und eigentlich noch immer stellt: den Aal. 
 
 Die Aalfrage soll aber nicht vom eigentlichen Thema ablenken: Wir sprechen über Rachel Carson, die eines der einflussreichsten Bücher der 1960er-Jahre geschrieben hat. Sie hat mit „Silent Spring“ nicht nur für ein Verbot des Pestizids DDT gesorgt, sondern auch das Umweltbewusstsein einer ganzen Generation geprägt hat und damit die entstehende Ökologiebewegung. 
@@ -986,20 +986,6 @@ Wir freuen uns, wenn ihr den Podcast bei Apple Podcasts rezensiert oder bewertet
 Wir freuen uns auch immer, wenn ihr euren Freundinnen und Freunden, Kolleginnen und Kollegen oder sogar Nachbarinnen und Nachbarn von uns erzählt!
 "
 "GAG326: Ausgestorbene und außergewöhnliche Berufe
-",1926,1926,1926,1926,[1926],"[""Weihnachten""]",[],"GAG326: Ausgestorbene und außergewöhnliche Berufe---
-Es ist mal wieder Zeit für eine Episode mit mehreren Geschichten. Wir sprechen über einige besondere Berufe: Es geht um einen Mann, der jedes Jahr zu Weihnachten den englischen König Heinrich II. mit einem Furz belustigt hat. Und um einen Mann, der Geld dafür bekommen hat, der Vierzehnte zu sein. 
-
-Außerdem: Menschen, die als Wecker durch die Straßen gelaufen sind und andere, die als Abtrittanbieter mit Eimern und Mantel für Erleichterung gesorgt haben.
-
-**AUS UNSERER WERBUNG**
-
-Du möchtest mehr über unsere Werbepartner erfahren? [**Hier findest du alle Infos &amp; Rabatte!**](https://linktr.ee/GeschichtenausderGeschichte)
-
-**NEU: Wer unsere Folgen lieber ohne Werbung anhören will, kann das über eine kleine Unterstützung auf [Steady](https://steadyhq.com/geschichtefm) tun.**
-
-**Wir freuen uns, wenn ihr den Podcast bei [Apple Podcasts](https://podcasts.apple.com/de/podcast/geschichten-aus-der-geschichte/id1044844618) rezensiert oder bewertet. Für alle jene, die kein iTunes verwenden, gibt's die Podcastplattform [Panoptikum](http://panoptikum.io/), auch dort könnt ihr [uns](https://panoptikum.io/podcasts/84) empfehlen, bewerten aber auch euer ganz eigenes PodcasthörerInnenprofil erstellen.**
-
-**Wir freuen uns auch immer, wenn ihr euren Freundinnen und Freunden, Kolleginnen und Kollegen oder sogar Nachbarinnen und Nachbarn von uns erzählt!**
 "
 "GAG325: Der Große Smog von 1952
 ",1952,1952,1952,1952,"[1952, 1952, 1952]","[""1952"", ""Jahr 1952"", ""Jahr 1952""]",[],"GAG325: Der Große Smog von 1952---
@@ -1021,7 +1007,7 @@ Wir freuen uns, wenn ihr den Podcast bei Apple Podcasts rezensiert oder bewertet
 Wir freuen uns auch immer, wenn ihr euren Freundinnen und Freunden, Kolleginnen und Kollegen oder sogar Nachbarinnen und Nachbarn von uns erzählt!
 "
 "GAG324: Mit dem Ballon zum Nordpol – Andrées Polarexpedition von 1897
-",1897,2022,1959,1932,"[1897, 1897, 1898, 1897, 1898, 2022, 1970, 1979]","[""1897"", ""Juli 1897"", ""nächsten Frühjahr"", ""Oktober 1897"", ""nächsten Jahr"", ""2022"", ""den 1970er Jahren""]","[""heute""]","GAG324: Mit dem Ballon zum Nordpol – Andrées Polarexpedition von 1897---
+",1897,2022,1959,1943,"[1897, 1897, 1897, 2022, 1970, 1979]","[""1897"", ""Juli 1897"", ""Oktober 1897"", ""2022"", ""den 1970er Jahren""]","[""nächsten Frühjahr"", ""heute"", ""nächsten Jahr""]","GAG324: Mit dem Ballon zum Nordpol – Andrées Polarexpedition von 1897---
 Im Juli 1897 stiegen drei Männer aus Schweden in einen Wasserstoffballon, um erstmals an einen Ort zu gelangen, an dem noch kein Mensch zuvor war. Ihre Ballonfahrt sollte sie über den Nordpol führen. Doch die Expedition ging schief: Nach 65 Stunden mussten sie mitten im Polarmeer landen.
 
 Die nächsten Monate versuchten Salomon Andrée, Knut Frænkel und Nils Strindberg, ein Vorratslager zu erreichen, um dort die Polarnacht zu überstehen, mit der Hoffnung im nächsten Frühjahr gerettet zu werden. Im Oktober 1897 erreichten sie die Weiße Insel (Kvitøya). Doch was dann geschah, gibt uns bis heute Rätsel auf.
@@ -1209,7 +1195,7 @@ Wir freuen uns, wenn ihr den Podcast bei Apple Podcasts rezensiert oder bewertet
 Wir freuen uns auch immer, wenn ihr euren Freundinnen und Freunden, Kolleginnen und Kollegen oder sogar Nachbarinnen und Nachbarn von uns erzählt!
 "
 "GAG314: Eine kurze Geschichte der Cholera
-",1854,1892,1873,1873,"[1873, 1873, 1873, 1892, 1854]","[""1873"", ""Sommer"", ""Oktober"", ""1892"", ""1854""]","[""heute""]","GAG314: Eine kurze Geschichte der Cholera---
+",1854,1892,1873,1873,"[1873, 1892, 1854]","[""1873"", ""1892"", ""1854""]","[""Sommer"", ""Oktober"", ""heute""]","GAG314: Eine kurze Geschichte der Cholera---
 1873 war ein außergewöhnliches Jahr für die Stadt Wien: Es fand nicht nur die Wiener Weltausstellung statt, sondern es kam auch zu einem heftigen Börsenkrach und im Sommer brach auch noch die Cholera aus. Doch das war noch nicht alles. Im Oktober wurde ein gigantisches Projekt fertiggestellt, das die Stadt bis heute prägt und zur hohen Lebensqualität beiträgt. Zahlreiche Stollen und 30 Aquädukte sorgen dafür, dass Wien mit Hochquellwasser aus 100 Kilometer Entfernung versorgt wird.
 
 Wir sprechen in der Episode über Cholera, wie sie mit Wasserleitungen und Filteranlagen bekämpft wurde und über die letzte große Cholera-Epidemie in Deutschland, die 1892 in Hamburg ausbrach.
@@ -1244,7 +1230,7 @@ Am Ende schaffte er es sogar zum Regenten von England und übernahm die Vormunds
 Du möchtest mehr über unsere Werbepartner erfahren? Hier findest du alle Infos &amp; Rabatte - https://linktr.ee/GeschichtenausderGeschichte !
 "
 "GAG311: Der Imjin-Krieg
-",1500,1854,1677,1617,"[1854, 1592, 1500, 1599, 1543]","[""Mai"", ""Jahres 1592"", ""16. Jahrhunderts"", ""Jahr 1543""]",[],"GAG311: Der Imjin-Krieg---
+",1500,1599,1549,1558,"[1592, 1500, 1599, 1543]","[""Jahres 1592"", ""16. Jahrhunderts"", ""Jahr 1543""]","[""Mai""]","GAG311: Der Imjin-Krieg---
 Wir springen diesmal nach Korea und Japan, wo im Mai des Jahres 1592 eine der größten militärischen Auseinandersetzungen des 16. Jahrhunderts beginnt.
 
 Wir sprechen darüber, warum der japanische Herrscher Toyotomi Hideyoshi sein Heer von beinahe 160.000 Mann in Korea einmarschieren ließ, und was ein paar portugiesische Händler, die im Jahr 1543 an einer kleinen japanischen Insel landeten, damit zu tun haben.
@@ -1336,7 +1322,7 @@ Du möchtest mehr über unsere Werbepartner erfahren? Hier findest du alle Infos
 "GAG300: Der vorläufige Höhepunkt
 "
 "GAG299: Wie Basketball von James Naismith erfunden wurde
-",1800,1967,1883,1889,"[1967, 1800, 1899, 1891]","[""der zweiten Hälfte"", ""19. Jahrhunderts"", ""1891""]","[""heute""]","GAG299: Wie Basketball von James Naismith erfunden wurde---
+",1800,1899,1849,1863,"[1800, 1899, 1891]","[""19. Jahrhunderts"", ""1891""]","[""heute"", ""der zweiten Hälfte""]","GAG299: Wie Basketball von James Naismith erfunden wurde---
 Die beliebtesten Mannschaftssportarten der Welt, wie Fußball oder American Football, haben eines gemeinsam: Die Regeln, nach denen sie heute gespielt werden, haben sich in der zweiten Hälfte des 19. Jahrhunderts herausgebildet. Doch es gibt eine Ausnahme, nämlich Basketball. Basketball geht zurück auf James Naismith, der 1891 den Auftrag bekam, einen Hallensport zu erfinden, mit geringerer Verletzungsgefahr im Vergleich zu Rugby oder Football. 13 Regeln und zwei Pfirsichkörbe später ging es dann los.
 
 Wir sprechen in der Folge über das Leben von James Naismith und was eine der weltweit größten Jugendorganisationen, die YMCA, mit der raschen Verbreitung des Sports zu tun hat. Außerdem geht es noch um ein besonderes Basketballspiel: das Secret Game.
@@ -1563,12 +1549,6 @@ Er knüpfte Kontakte zur völkischen Bewegung und mit Erich Ludendorff stieg ein
 Du möchtest mehr über unsere Werbepartner erfahren? Hier findest du alle Infos &amp; Rabatte - https://linktr.ee/GeschichtenausderGeschichte !
 "
 "GAG272: Am Ende der Welt - Napoleons letzte Jahre im Exil
-",1928,1928,1928,1928,[1928],"[""letzte Jahre""]",[],"GAG272: Am Ende der Welt - Napoleons letzte Jahre im Exil---
-Wir sprechen in dieser Folge über Napoleon - DEN Napoleon. Allerdings nicht über seine Schlachten, seinen bleibenden Einfluss auf Europa oder gar über die Schlacht von Waterloo. Na gut, ein bisschen auch über die Schlacht von Waterloo, aber tatsächlich sprechen wir darüber, was mit dem Mann passierte, nachdem er aufhörte Kaiser zu sein.
-
-Es geht um die entlegene Insel St. Helena, um ein feuchtes Gefängnis und warum ein britischer Offizier Napoleon die letzten Jahre seines Lebens etwas schwer machte.
-
-Du möchtest mehr über unsere Werbepartner erfahren? Hier findest du alle Infos &amp; Rabatte - https://linktr.ee/GeschichtenausderGeschichte !
 "
 "GAG271: Caroline Neuber und der Hanswurststreit
 ",1700,1799,1749,1749,"[1700, 1799]","[""18. Jahrhundert""]",[],"GAG271: Caroline Neuber und der Hanswurststreit---
@@ -1660,7 +1640,7 @@ Wir springen ins 19. Jahrhundert und beschäftigen uns mit der Biographie von Ad
 Du möchtest mehr über unsere Werbepartner erfahren? Hier findest du alle Infos &amp; Rabatte - https://linktr.ee/GeschichtenausderGeschichte !
 "
 "GAG260: Der Rattenfänger von Hameln
-",1284,1284,1284,1284,"[1284, 1284]","[""Jahr 1284"", ""diesem Jahr""]",[],"GAG260: Der Rattenfänger von Hameln---
+",1284,1284,1284,1284,[1284],"[""Jahr 1284""]","[""diesem Jahr""]","GAG260: Der Rattenfänger von Hameln---
 Wir springen in dieser Folge ins Jahr 1284. In der niedersächsischen Stadt Hameln wird in diesem Jahr ein geheimnisvoller Flötenspieler nicht nur Ratten, sondern auch 130 Kinder ins Verderben locken. Die Geschichte übt eine solche Faszination auf die Menschen aus, dass sie im Laufe der Jahrhunderte zu einer der bekanntesten Sagen Deutschlands wird.
 
 Wir sprechen in dieser Folge darüber, was es mit möglichen historischen Hintergründen dieser Geschichte auf sich hat.
@@ -1698,7 +1678,7 @@ Wir sprechen darüber, was wahrscheinlich geschah, warum diese Geschichte solch 
 Wir beschäftigen uns dieser Folge mit Kautschuk und seiner zentralen Bedeutung für die Industrialisierung und Kolonialisierung Anfang des 20. Jahrhunderts: Der zunehmende Bedarf an Gummi sorgte für einen Kautschuk-Boom in Brasilien, wo im Amazonasgebiet der Kautschukbaum Hevea brasiliensis wächst. Der Boom dort war aber bald vorbei, nachdem Henry Wickham 70.000 Samen des Baumes nach London schmuggelte und kurze Zeit später in Südostasien die ersten Kautschuk-Plantagen angelegt wurden.
 "
 "GAG253: Martin Frobisher und die Steine
-",1500,1703,1601,1600,"[1703, 1500, 1599]","[""die zweite Hälfte"", ""16. Jahrhunderts""]","[""bald""]","GAG253: Martin Frobisher und die Steine---
+",1500,1599,1549,1549,"[1500, 1599]","[""16. Jahrhunderts""]","[""die zweite Hälfte"", ""bald""]","GAG253: Martin Frobisher und die Steine---
 Wir springen in die zweite Hälfte des 16. Jahrhunderts. England, unter Elizabeth I., ist zwar eine wichtige Macht in Europa, doch was koloniale und auch wirtschaftliche Bestrebungen angeht, hinken sie den Seefahrernationen Spanien und Portugal ziemlich hinterher.
 
 Wir sprechen in dieser Folge über Martin Frobisher, eigentlich Freibeuter, der einen Plan ausheckt, auch England am Kuchen der Globalisierung mitnaschen zu lassen. Allerdings wird sich bald rausstellen, dass das alles gar nicht so einfach ist.
@@ -1712,7 +1692,7 @@ Wir springen diesmal in die 2. Hälfte des 18. Jahrhunderts. Automaten, also mec
 Wir sprechen über diesen Automaten – den Schachtürken – und die Erfolge die er bald darauf in ganz Europa feiern wird. Doch der faszinierende Automat birgt ein Geheimnis, das die Menschen selbst lang nach dem Ableben seines Erschaffers beschäftigen wird.
 "
 "GAG250: Eine kurze Geschichte der Bluttransfusion
-",1291,1899,1595,1715,"[1291, 1800, 1899, 1873]","[""dieser Woche"", ""19. Jahrhunderts"", ""1873""]",[],"GAG250: Eine kurze Geschichte der Bluttransfusion---
+",1800,1899,1849,1857,"[1800, 1899, 1873]","[""19. Jahrhunderts"", ""1873""]","[""dieser Woche""]","GAG250: Eine kurze Geschichte der Bluttransfusion---
 Hier ist sie, die 250. Folge! Seit 250 Wochen podcasten wir nun schon ohne Pause und erzählen uns Geschichten aus der Geschichte. Wir freuen uns, dass wir bis hierhin gekommen sind! Aber ohne euch, wäre das nicht passiert: Ein großer Dank an alle, die uns Zuhören, Feedback geben, kommentieren, Themenvorschläge schicken oder uns finanziell unterstützen! Aber Jubiläum hin oder her, wir sind ja zusammengekommen, um Geschichten zu erzählen und das machen wir daher auch in dieser Woche, so wie das hier üblich ist.
 
 Wir springen an das Ende des 19. Jahrhunderts und beschäftigen uns mit einem Thema aus der Medizingeschichte: Ein deutscher Arzt löste mit einer Bluttransfusion 1873 einen Hype aus. Er übertrug das Blut eines Lammes und heilte damit angeblich eine schwerkranke Patientin. In der Folge schauen wir uns an, seit wann eigentlich Bluttransfusionen gemacht werden und wie die Lammbluttransfusion schließlich aus dem Repertoire der Humanmedizin wieder verschwand.
@@ -1746,7 +1726,7 @@ Wir springen zum Ausgang des Mittelalters ins frühe 16. Jahrhundert. Der franz�
 1536 startet der Kaiser mit einem riesigen Heer eine Invasion der Provence. Ziel ist es, den französischen König vom Thron zu stürzen. Doch wenige Monate später ziehen sich die habsburgischen Truppen geschlagen zurück nach Italien – ohne auch nur in einer einzigen Schlacht gekämpft zu haben. Großen Anteil daran hatte die Zerstörung einer Mühle in Auriol, die die Versorgung des kaiserlichen Heeres zusammenbrechen ließ.
 "
 "GAG243: Aeneas Coffey und eine kleine Geschichte des irischen Whiskeys
-",1291,1899,1595,1705,"[1291, 1800, 1899, 1831]","[""dieser Woche"", ""19. Jahrhunderts"", ""Jahr 1831""]","[""heutzutage""]","GAG243: Aeneas Coffey und eine kleine Geschichte des irischen Whiskeys---
+",1800,1899,1849,1843,"[1800, 1899, 1831]","[""19. Jahrhunderts"", ""Jahr 1831""]","[""dieser Woche"", ""heutzutage""]","GAG243: Aeneas Coffey und eine kleine Geschichte des irischen Whiskeys---
 Wir springen in dieser Woche ins Irland des 19. Jahrhunderts, wo der Steuerbeamte Aeneas Coffey im Jahr 1831 ein Patent anmeldet, das die zu jener Zeit florierende irische Whiskeyindustrie für immer verändern sollte.
 Wir sprechen darüber, warum irischer Whiskey so beliebt war, wie sich das im Laufe weniger Jahrzehnte veränderte und warum heutzutage nicht irischer, sondern schottischer Whisky den Weltmarkt dominiert.
 "
@@ -1797,7 +1777,7 @@ Wir springen nach Russland an den Anfang des 20. Jahrhunderts: Ernest Beaux krei
 Doch es gibt noch ein zweites Parfüm, das seinen Duft dem Thronjubiläum der Romanows verdankt: Der am weitesten verbreitete Duft in der Sowjetunion: Das Rote Moskau, Krasnaja Moskwa, vom ebenfalls französischen Parfümeur Auguste Michel.
 "
 "GAG233: Norton I., Kaiser der USA
-",1291,1899,1595,1710,"[1291, 1800, 1899, 1852]","[""diese Woche"", ""19. Jahrhunderts"", ""Jahr 1852""]",[],"GAG233: Norton I., Kaiser der USA---
+",1800,1899,1849,1850,"[1800, 1899, 1852]","[""19. Jahrhunderts"", ""Jahr 1852""]","[""diese Woche""]","GAG233: Norton I., Kaiser der USA---
 Wir springen diese Woche ins San Francisco des 19. Jahrhunderts. Joshua Norton, Kind schottischer Eltern, aufgewachsen in der Kapkolonie, schafft es dort mit gutem wirtschaftlichem Gespür zu rechtem Wohlstand. Doch all das ändert sich schlagartig im Jahr 1852, als ein Ereignis nicht nur Nortons wirtschaftlichen Status verändern wird.
 "
 "GAG232: Ein Mordfall und das umfangreichste Wörterbuch der englischen Sprache
@@ -1864,11 +1844,11 @@ Wir beschäftigen uns in dieser Folge mit einer Technik, die in den Großstädte
 Doch hinter der Rohrpostidee steckt viel mehr: Vor der Elektrifizierung galt die Pneumatik als Alternative zum Dampfantrieb. Wir sprechen daher über die Anfänge der Rohrpost, über pneumatische und atmosphärische Bahnen und wie es dazu kam, dass die erste U-Bahn in New York pneumatisch betrieben wurde.
 "
 "GAG219: Die Kotze-Affäre
-",1800,1900,1850,1872,"[1800, 1899, 1900, 1891]","[""19. Jahrhunderts"", ""Jänner"", ""Jahres 1891""]",[],"GAG219: Die Kotze-Affäre---
+",1800,1899,1849,1863,"[1800, 1899, 1891]","[""19. Jahrhunderts"", ""Jahres 1891""]","[""Jänner""]","GAG219: Die Kotze-Affäre---
 Wir springen in dieser Folge an den kaiserlichen Hof im Deutschland des 19. Jahrhunderts. An einem Tag im Jänner des Jahres 1891 vergnügt sich eine Gruppe Adliger auf einer Schlittenfahrt, die schließlich in einer Feierlichkeit, die etwas außer Rand und Band gerät, endet. Was danach passiert, wird die folgenden Jahre Gegenstand erbitterter Streitigkeiten, Gerichtsverfahren und schließlich auch dreier Duelle sein, an deren Ende ein Todesfall zu beklagen ist. Es geht um intime Geheimnisse, Ehrenverletzungen und eine Gesellschaft im Umbruch.
 "
 "GAG218: Die Pazzi-Verschwörung und der Aufstieg der Medici
-",1478,1478,1478,1478,"[1478, 1478]","[""26. April 1478"", ""April""]",[],"GAG218: Die Pazzi-Verschwörung und der Aufstieg der Medici---
+",1478,1478,1478,1478,[1478],"[""26. April 1478""]","[""April""]","GAG218: Die Pazzi-Verschwörung und der Aufstieg der Medici---
 Am 26. April 1478 sollten die beiden mächtigsten Männer in Florenz während eines Gottesdienstes umgebracht werden: die Brüder Lorenzo de' Medici und Giuliano di Piero de’ Medici. Giuliano wird bei dem Angriff getötet, Lorenzo kann in die Sakristei flüchten und überlebt leicht verletzt. Die Pazzi-Verschwörung, oder das April-Komplott, war ein Wendepunkt in der Geschichte der Medici – einer der mächtigsten und reichsten Familien der Renaissance. 
 
 Wir springen in dieser Folge nach Florenz ins heutige Italien und beschäftigen uns mit den Medici. Und wir sprechen darüber, wer hinter der Verschwörung steckte und welche Folgen sie hatte.
@@ -1912,7 +1892,7 @@ Wir springen in dieser Folge ins frühe Mittelalter, Ort des Geschehens ist das 
 Wir sprechen über diese Waffe, wo sie überall verwendet wurde und warum sie trotz ihrer Effektivität ab dem 12. Jahrhundert nur noch vereinzelt verwendet wurde.
 "
 "GAG210: Der Kunstfälscher Han van Meegeren
-",1900,2018,1959,1961,"[1900, 1999, 2018, 1943, 1945]","[""20. Jahrhunderts"", ""Jan"", ""1943"", ""1945""]",[],"GAG210: Der Kunstfälscher Han van Meegeren---
+",1900,1999,1949,1946,"[1900, 1999, 1943, 1945]","[""20. Jahrhunderts"", ""1943"", ""1945""]","[""Jan""]","GAG210: Der Kunstfälscher Han van Meegeren---
 Wir springen in die Niederlande und beschäftigen uns mit einem der erfolgreichsten Kunstfälscher des 20. Jahrhunderts: Han van Meegeren. Ihm ist es gelungen, gefälschte Bilder Jan Vermeers an die bedeutendsten Kunstsammlungen der Niederlande zu verkaufen und Millionen damit zu verdienen. 1943 verkaufte er eine seiner Fälschungen an Hermann Göring – was sich nach dem Zweiten Weltkrieg als verhängnisvoll herausstellen sollte. 
 
 Ohne der Fälschung überführt zu werden, gestand er schließlich kurz nach dem Ende der Besatzung durch Nazi-Deutschland 1945 den Betrug. Wir sprechen darüber, wie es dazu kam und warum van Meegeren seinen letzten Vermeer während seiner Zeit in U-Haft gemalt hat.
@@ -1958,8 +1938,6 @@ Doch ab dem 16. Jahrhundert regte sich Kritik an der Harnschau und die gelehrten
 Damit nicht genug: Am Ende der Folge geht es noch über die Geschichte des Schwangerschaftstests und warum das gegenwärtige Amphibiensterben damit zusammenhängt.
 "
 "GAG201: Eine kleine Geschichte des Speiseeises
-",2018,2018,2018,2018,[2018],"[""dieser Woche""]","[""heutzutage""]","GAG201: Eine kleine Geschichte des Speiseeises---
-Wir springen in dieser Woche durch die Zeiten, vom 2. Jahrtausend vor der Zeitenwende, bis zur Gegenwart: denn wir besprechen die Geschichte des Eises, genauer, die Geschichte des Speiseeises. Die Sache, an der sich heutzutage Millionen von Menschen so selbstverständlich laben, hat eine bewegte Geschichte hinter sich, im wahrsten Sinne des Wortes.
 "
 "GAG200: Eine Abrechnung
 "
@@ -2072,7 +2050,7 @@ Wir springen in dieser Folge ins Deutschland des 17. Jahrhunderts. In Frankfurt 
 Wir sprechen über Maria Merians Leben und was die Dinge sind, die sie noch so außergewöhnlich machten.
 "
 "GAG178: Der Klosterskandal von Sant’Ambrogio
-",1800,1899,1849,1865,"[1897, 1800, 1899]","[""diese Woche"", ""19. Jahrhunderts""]",[],"GAG178: Der Klosterskandal von Sant’Ambrogio---
+",1800,1899,1849,1849,"[1800, 1899]","[""19. Jahrhunderts""]","[""diese Woche""]","GAG178: Der Klosterskandal von Sant’Ambrogio---
 Wir springen diese Woche in die Mitte des 19. Jahrhunderts nach Rom und beschäftigen uns mit einem Klosterskandal, der von der Inquisition nach Anzeige der adligen Novizin Katharina von Hohenzollern-Sigmaringen aufgedeckt wurde. Es geht um Visionen, Wunder, Nonnen, die sich als Heilige verehren lassen, Teufelsaustreibungen, sexuellen Missbrauch und Giftanschläge. 
 
 Doch hinter dem Skandal steckt noch mehr, denn die Vorgänge in Sant’Ambrogio wurden in einem Netzwerk von einigen hochrangigen Jesuiten mit sehr guten Kontakten zu Papst Pius IX. gedeckt. Und so zeigt sich an dem Fall der Kampf um die künftige Ausrichtung der katholischen Kirche. Eine Auseinandersetzung, bei der sich am Ende die reaktionären Hardliner um den Papst durchsetzen – was sich zum Beispiel am Unfehlbarkeitsdogma und der Neuscholastik zeigt.
@@ -2110,10 +2088,6 @@ In England lassen sich dann um 1600, mit der Etablierung der Old Poor Laws, die 
 "GAG171: Eine ganz kleine Geschichte der Nacht und des Schlafs
 "
 "GAG170: Auf Schatzsuche
-",1834,1834,1834,1834,[1834],"[""August""]",[],"GAG170: Auf Schatzsuche---
-In dieser Episode gehen wir auf Schatzsuche. Auf der Kokos-Insel, einer kleinen Insel vor Costa Rica, soll ein legendärer Piratenschatz versteckt sein: Der Kirchenschatz von Lima. Wir beschäftigen uns mit dem Mythos des Schatzes und einem Mann, der sein halbes Leben mit der Suche nach dem Schatz auf der Insel verbracht hat. Doch August Gissler wurde, wie so viele vor und nach ihm, nicht fündig. 
-
-Bei der Gelegenheit sprechen wir gleich noch über das „Goldene Zeitalter der Piraterie“ und über Freibeuter und Kaperfahrer, die gerade im Pazifik häufig anzutreffen waren.
 "
 "GAG169: Maos Großer Sprung und die chinesische Hungersnot von 1958–62
 ",1958,1962,1960,1959,"[1958, 1962, 1958]","[""1958"", ""62"", ""Jahr 1958""]",[],"GAG169: Maos Großer Sprung und die chinesische Hungersnot von 1958–62---
@@ -2166,12 +2140,6 @@ Wir springen in dieser Episode in die Mitte des 19. Jahrhunderts. Ort des Gesche
 Wir sprechen in dieser Episode über eines der Schiffe, das Passagiere und Waren in den Westen brachte, aber auch über Schatzsucher, die im Jahr 1988 den Fund ihres Lebens machten.
 "
 "GAG160: Barbareskenstaaten und die europäischen Seemächte
-",1918,1918,1918,1918,[1918],"[""diese Woche""]",[],"GAG160: Barbareskenstaaten und die europäischen Seemächte---
-Wir springen zurück in die Frühe Neuzeit und beschäftigen uns diese Woche mit Piraterie, Kaperei und Sklavenhandel. Während die europäischen Seemächte den Seehandel, und insbesondere den transatlantischen Sklavenhandel, immer weiter ausbauten, wurden ihre Schiffe von den Barbaresken-Korsaren der nordafrikanischen Küste bedroht. Denn die kaperten die Schiffe und versklavten die Besatzung.
-
-Als Gegenmaßnahmen richteten die europäischen Seemächte zB. Versicherungen ein, sog. Sklavenkassen, oder schlossen tributgestützte Verträge. Die Bittbriefe der Gefangenen und die Berichte der Zurückgekehrten prägten in der Folge das negative Bild, das sich bei den europäischen Seemächten von den islamisch geprägten Reichen verbreitete.
-
-Ein Rückkehrer war Hark Olufs, der nach 12 Jahren Gefangenschaft wieder nach Amrum kam. Sein Grabstein, auf dem seine Lebensgeschichte erzählt wird, ist ein vielbesuchtes Kulturdenkmal auf Amrum.
 "
 "GAG159: Thorsten Logge über Geschichte und Public History
 "
@@ -2241,17 +2209,13 @@ Wir springen in dieser Folge 100 Jahre zurück, in das Jahr 1918, und beschäfti
 Wir sprechen darüber, wie die Grippe zu ihrem Namen kam, warum die Grippewelle so tödlich verlief und warum der Erste Weltkrieg entscheidend zur Verbreitung – und vielleicht sogar zur Entstehung – beigetragen hat.
 "
 "GAG143: Über Marsmenschen, Massenpanik und die Entstehung eines Mythos
-",1918,1918,1918,1918,[1918],"[""nächsten Tag""]","[""heute""]","GAG143: Über Marsmenschen, Massenpanik und die Entstehung eines Mythos---
-Wir springen in dieser Folge in die 30er Jahre des 20. JH und sprechen über ein Hörspiel, das auch heute noch gern als eines der ersten Beispiele für den Einfluss der Massenmedien auf den Menschen herangezogen wird: War of the Worlds, ursprünglich von H.G. Wells, und fürs amerikanische Radio von Orson Welles adaptiert.
-
-Wir sprechen über die - laut zahlreicher Zeitungsberichte, die am nächsten Tag erschienen - ausgebrochene Massenpanik, hervorgerufen durch die angeblich zu realitätsnahe Darbietung der Akteure. Außerdem sprechen wir darüber, warum das so höchstwahrscheinlich gar nicht alles stimmt.
 "
 "GAG142: Bertha Pappenheim – Gründerin des Jüdischen Frauenbundes und Sozialpionierin
 ",1900,1999,1949,1949,"[1900, 1999]","[""20. Jahrhunderts""]",[],"GAG142: Bertha Pappenheim – Gründerin des Jüdischen Frauenbundes und Sozialpionierin---
 Wir beschäftigen uns in dieser Folge mit der faszinierenden Biographie Bertha Pappenheims. Sie war eine Protagonistin der konfessionellen Frauenbewegung Anfang des 20. Jahrhunderts, Gründerin des Jüdischen Frauenbundes, eine bedeutende Stimme im Kampf gegen den Mädchenhandel und eine Pionierin der Sozialarbeit. Aber dennoch ist sie vielen vor allem als berühmte Patientin in Erinnerung geblieben, als Anna O., „Urpatientin“ der Psychoanalyse.
 "
 "GAG141: Die kurze Geschichte des Kokovorismus
-",1900,1999,1949,1939,"[1900, 1999, 1918]","[""20. Jahrhunderts"", ""August""]",[],"GAG141: Die kurze Geschichte des Kokovorismus---
+",1900,1999,1949,1949,"[1900, 1999]","[""20. Jahrhunderts""]","[""August""]","GAG141: Die kurze Geschichte des Kokovorismus---
 Wir springen in dieser Episode an den Anfang des 20. Jahrhunderts. Schauplatz ist die sehr kleine Insel Kabakon im südpazifischen Bismarck-Archipel. Protagonist der Geschichte ist August Engelhardt, einst geborener Nürnberger, nun neugeborener Lebensreformer. Im Dunstkreis eben dieser Lebensreformer entwickelt er einen neuen Kult, der sich gänzlich um nur eine Sache dreht: die Kokosnuss.
 "
 "GAG140: Eisbrecher für die Diplomatie – das Fußball-Länderspiel Sowjetunion gegen die BRD 1955
@@ -2269,7 +2233,7 @@ Wir springen zurück an das Ende des 19. Jahrhunderts und beschäftigen uns dies
 In den Kolonien setzten die Kolonialmächte häufig einheimische Söldner ein – sie wurden vielfach als Askari bezeichnet. Die Askari bildeten z.B. den Großteil der deutschen Schutztruppe in Deutsch-Ostafrika und so kämpften dort mehr als 14.000 afrikanische Söldner im Ersten Weltkrieg Krieg unter dem Kommando Paul von Lettow-Vorbecks. Wir sprechen darüber, wie die Askari Teil der deutschen Erinnerungskultur wurden und was es mit der Figur des „treuen“ Askari und dem Askari-Mythos auf sich hat.
 "
 "GAG137: Die Französisch-Britische Union
-",1940,1955,1947,1947,"[1955, 1940]","[""diese Woche"", ""1940""]",[],"GAG137: Die Französisch-Britische Union---
+",1940,1940,1940,1940,[1940],"[""1940""]","[""diese Woche""]","GAG137: Die Französisch-Britische Union---
 Wir springen diese Woche in der Geschichte nicht sehr weit zurück. Nur bis 1940, als sich ein kleines aber feines Stück jener Art von Geschichte zuträgt, das wir getrost als ""was wäre wenn"" Geschichte bezeichnen können.
 "
 "GAG136: Der Jüdische Friedhof Währing
@@ -2291,13 +2255,13 @@ Wir beleuchten in dieser Folge die Geschichte des Kaiserschnitts anhand dreier P
 Wir springen diesmal in das Jahr 1095 und sprechen über eines der bekanntesten Ereignisse des Mittelalters: die Kreuzzüge. Dabei schauen wir uns den Ersten Kreuzzug etwas genauer an und konzentrieren uns auf zwei Protagonisten, die maßgeblich an der Entstehung des Kreuzzugs beteiligt waren: Alexios I. Komnenos und Papst Urban II.
 "
 "GAG132: Gesche Gottfried, der Engel von Bremen
-",1800,1955,1877,1884,"[1955, 1800, 1899]","[""dieser Woche"", ""19. Jahrhundert""]","[""bald"", ""heute""]","GAG132: Gesche Gottfried, der Engel von Bremen---
+",1800,1899,1849,1849,"[1800, 1899]","[""19. Jahrhundert""]","[""dieser Woche"", ""bald"", ""heute""]","GAG132: Gesche Gottfried, der Engel von Bremen---
 Wir springen in dieser Woche ins frühe 19. Jahrhundert. Schauplatz ist Bremen, Protagonistin ist Gesche Gottfried. In ärmliche Verhältnisse geboren, kann sie die Heirat mit einem Sattlermeister in den bürgerlichen Stand erheben. Doch das Glück währt nicht lang, denn einige Jahre nach der Hochzeit stirbt ihr Mann und lässt sie mit drei Kinden zurück. Doch damit nicht genug - bald sorgen weitere Unglücksfälle dafür, dass Gesche Gottfried in der Bremer Bevölkerung als eine vom Unglück verfolgte Frau gelten wird. Wir sprechen darüber, warum Gesche Gottfried auch heute noch - auch weit über Bremen hinaus - bekannt ist.
 "
 "GAG131: Strathclyde – ein (fast) vergessenes Königreich
 "
 "GAG130: Alexander von Abonuteichos oder Wie ein Kult entsteht
-",100,1955,1027,751,"[1955, 100, 199]","[""dieser Woche"", ""2. Jahrhundert""]","[""bald"", ""heute""]","GAG130: Alexander von Abonuteichos oder Wie ein Kult entsteht---
+",100,199,149,149,"[100, 199]","[""2. Jahrhundert""]","[""dieser Woche"", ""bald"", ""heute""]","GAG130: Alexander von Abonuteichos oder Wie ein Kult entsteht---
 Wir springen in dieser Woche wieder etwas weiter zurück in der Geschichte. Ort des Geschehens ist eine eigentlich unbedeutende Kleinstadt an der Schwarzmeerküste, im 2. Jahrhundert nach der Zeitenwende. Protagonist der Geschichte ist ein gewisser Alexander, der bald dafür sorgen wird, dass die Stadt Sitz eines erfolgreichen Mysterienkults werden und über einige Zeit weit über die Grenzen Kleinasiens bekannt werden wird.
 
 Wir sprechen darüber, wie er das, trotz großer Konkurrenz durch andere Gottheiten, Kulte und Theologien schafft. Spoiler: auch heute noch funktioniert ein Konzept wie seines hervorragend.
@@ -2343,7 +2307,7 @@ Wir springen in dieser Episode nach Afrika und beschäftigen uns mit Kolonialges
 Vielen Dank an Dr. Stephanie Zehnle fürs Mitmachen!
 "
 "GAG120: Die Rückkehr des Martin Guerre
-",1500,1958,1729,1685,"[1500, 1599, 1958]","[""16. Jahrhundert"", ""Acht Jahre später""]",[],"GAG120: Die Rückkehr des Martin Guerre---
+",1500,1599,1549,1549,"[1500, 1599]","[""16. Jahrhundert""]","[""Acht Jahre später""]","GAG120: Die Rückkehr des Martin Guerre---
 Wir springen in dieser Episode ins 16. Jahrhundert und beleuchten die Geschichte des vielleicht faszinierendsten Gerichtsfalls der Zeit.
 
 Es geht um Martin Guerre, baskischstämmiger Bauer in einem Dorf in den südfranzösischen Pyrenären. Eines Tages verschwindet der Mann spurlos, lässt Frau, Sohn und gesamte Habe ohne ein Wort zurück. Acht Jahre später kehrt er wieder, doch schnell stellt sich heraus, dass nicht alles so ist, wie es scheint.
@@ -2361,7 +2325,7 @@ In dieser letzten Episode des Jahres springen wir ins späte 17. Jahrhundert. Di
 Bonus: wir lernen, was Werwölfe mit Bier zu tun haben!
 "
 "GAG117: Tunix, Tuwat und die Entstehung des Chaos Computer Clubs
-",1970,1981,1975,1978,"[1978, 1978, 1981, 1981, 1981, 1970, 1979, 1981, 1977, 1979]","[""Ende Januar 1978"", ""Herbst"", ""Drei Jahre später"", ""August 1981"", ""März"", ""70er Jahre"", ""Herbst"", ""1977"", ""1979""]","[""heute"", ""wenige Jahre später""]","GAG117: Tunix, Tuwat und die Entstehung des Chaos Computer Clubs---
+",1970,1981,1975,1977,"[1978, 1981, 1970, 1979, 1977, 1979]","[""Ende Januar 1978"", ""August 1981"", ""70er Jahre"", ""1977"", ""1979""]","[""heute"", ""Herbst"", ""Drei Jahre später"", ""wenige Jahre später"", ""März"", ""Herbst""]","GAG117: Tunix, Tuwat und die Entstehung des Chaos Computer Clubs---
 Der dreitägige Tunix-Kongress Ende Januar 1978 war für viele, die sich dem linken Spektrum zugehörig fühlten, ein Wendepunkt und war Initialzündung für viele neue Projekte – von denen es heute noch einige gibt. Wenige Monate nach dem Deutschen Herbst kam nun im linken Spektrum wieder Aufbruchstimmung auf. Einigen gilt der Tunix-Kongress daher als Geburtsstunde der Alternativbewegung in Deutschland. 
 
 Drei Jahre später, im August 1981, fand dann in Berlin der Tuwat-Kongress statt und Komputerfrieks riefen zu einem ersten Treffen auf, das wegweisend war für die Gründung des Chaos Computer Clubs wenige Jahre später.  
@@ -2369,7 +2333,7 @@ Drei Jahre später, im August 1981, fand dann in Berlin der Tuwat-Kongress statt
 Der Historiker Michael März hat uns in dieser Episode als Experte unterstützt. Er hat mit einer Arbeit über die Linke Ende der 70er Jahre promoviert („Linker Protest nach dem Deutschen Herbst. Eine Geschichte des linken Spektrums im Schatten des ’starken Staates‘, 1977-1979“). Vielen Dank fürs Mitmachen!
 "
 "GAG116: Über Basken, Wale und ein Massaker auf Island
-",2015,2015,2015,2015,"[2015, 2015]","[""Jahr 2015"", ""Sommer""]",[],"GAG116: Über Basken, Wale und ein Massaker auf Island---
+",2015,2015,2015,2015,[2015],"[""Jahr 2015""]","[""Sommer""]","GAG116: Über Basken, Wale und ein Massaker auf Island---
 Erst im Jahr 2015 wird auf Island ein Gesetz offiziell für ungültig erklärt, das es allen Isländern erlaubt hatte, jeden Basken zu töten, der Fuß auf die Insel setzt.
 
 Wir sprechen in dieser Episode darüber, warum es zu diesem Gesetz kam, und springen dafür 400 Jahre in die Vergangenheit. Es geht um Basken, Walfang und einen folgenschweren Sommer in den Westfjorden Islands.
@@ -2383,7 +2347,7 @@ Wir springen mal wieder etwas weiter zurück: Es geht diesmal um die Geschichte 
 Wir springen zurück in die 30er Jahre des 20. Jahrhunderts. Auf der entlegenen schottischen Insel Scarp wird ein außergewöhnliches Experiment gewagt, in dessen Zentrum ein Mann steht: Gerhard Zucker, deutscher Geschäftsmann und Visionär. Wir sprechen darüber, was gerade ihn auf diese Insel verschlägt und was sich nicht nur er, sondern die britische Regierung von diesem Experiment erwarten.
 "
 "GAG113: Die Hep-Hep-Unruhen von 1819
-",1815,1848,1831,1829,"[1819, 1819, 1815, 1848, 1848]","[""1819"", ""1819"", ""1815"", ""1848"", ""August""]","[""heute""]","GAG113: Die Hep-Hep-Unruhen von 1819---
+",1815,1848,1831,1825,"[1819, 1819, 1815, 1848]","[""1819"", ""1819"", ""1815"", ""1848""]","[""heute"", ""August""]","GAG113: Die Hep-Hep-Unruhen von 1819---
 Wir springen diesmal in die Zeit kurz nach dem Wiener Kongress: 1819 wird mit den Karlsbader Beschlüssen ein großes staatliches Überwachungspaket verabschiedet, auf das heute noch manchmal Bezug genommen wird, wenn von Metternich 2.0 die Rede ist. Fürst von Metternich war während der Phase der Restauration (vom Wiener Kongress 1815 bis zur Märzrevolution 1848) einer der federführenden Politiker. 
 
 Als Auslöser für die Karlsbader Beschlüsse gilt die Ermordung von August von Kotzebue. Ein unmittelbarer Grund für die Durchsetzung des Überwachungspakets ist erstaunlicherweise weniger bekannt: die Hep-Hep-Unruhen oder Hep-Hep-Krawalle – die ersten überregionalen antisemitischen Verfolgungen seit dem Mittelalter.
@@ -2393,7 +2357,7 @@ Als Auslöser für die Karlsbader Beschlüsse gilt die Ermordung von August von 
 Wir springen diesmal zurück ins 19. Jahrhundert, der Ort des Verbrechens ist München. Und ja, es geht tatsächlich um ein Verbrechen. Denn um 1870 herum, baut die arbeitslose Schauspielerin Adele Spitzeder eine Privatbank auf, die als einer der größten Betrugsfälle Bayerns des 19. Jahrhunderts in die Geschichte eingehen wird.
 "
 "GAG111: Die Anfänge des Esperanto
-",1800,1908,1854,1876,"[1870, 1800, 1899, 1907, 1908]","[""die zweite Hälfte"", ""19. Jahrhunderts"", ""1907"", ""1908""]","[""heute""]","GAG111: Die Anfänge des Esperanto---
+",1800,1908,1854,1878,"[1800, 1899, 1907, 1908]","[""19. Jahrhunderts"", ""1907"", ""1908""]","[""die zweite Hälfte"", ""heute""]","GAG111: Die Anfänge des Esperanto---
 Wir springen diesmal wieder in die zweite Hälfte des 19. Jahrhunderts und beschäftigen uns mit Plansprachen. Vor allem geht es um die Anfänge des Esperanto und wie die Sprache die ersten Reformkrisen überstand: Ludoviko Lazaro Zamenhof, der Initiator der Sprache, stellte bereits wenige Jahre nach Veröffentlichung von Esperanto Reformen zur Abstimmung. 1907/1908 kam es dann zur Ido-Krise nachdem der Reformvorschlag eines unbekannten Autors namens Ido („Abkömmling“ auf Esperanto) abgelehnt wurde und sich ein führender Esperantist – mit gefälschtem Adels-Stammbaum – als Ido outete. Was aber vermutlich auch nicht stimmt. Aber wie wir wissen, sind Krisen nur dornige Chancen und so führten die Debatten zur Stabilisierung der Sprache und zur Bildung von Institutionen, die es heute noch gibt, wie den Esperanto-Weltbund (Universala Esperanto-Asocio, UEA).
 "
 "GAG110: 110, 112, 999, etc.
@@ -2429,7 +2393,7 @@ Wir springen diesmal nicht sehr weit in die Vergangenheit zurück. Das Jahr ist 
 "GAG101: Leon Theremin – Was die Anfänge der elektronischen Musik mit Überwachungstechniken zu tun haben
 "
 "GAG100: Der Fall der „Mignonette“ und seine Folgen
-",1800,1955,1877,1884,"[1955, 1800, 1899]","[""dieser Woche"", ""19. Jahrhunderts""]",[],"GAG100: Der Fall der „Mignonette“ und seine Folgen---
+",1800,1899,1849,1849,"[1800, 1899]","[""19. Jahrhunderts""]","[""dieser Woche""]","GAG100: Der Fall der „Mignonette“ und seine Folgen---
 Und hier ist sie: Episode 100! Bevor wir in die Geschichte dieser Woche eintauchen, sprechen wir noch ein bisschen über die letzten 100 Wochen und warum wir das alles überhaupt so gern machen.
 
 An dieser Stelle sei aber zuerst mal ein Dank an alle, die uns während der letzten 99 Episoden unterstützt haben, ausgesprochen. Jede Episode, die ihr anhört, jedes Feedback, jeder Tweet und Retweet, all dies freut uns wahnsinnig und ist der Grund, warum wir das Ganze so gern und seit 100 Wochen machen!
@@ -2475,7 +2439,7 @@ Es geht um Bakteriologie, zweifelhafte Methoden einer Gesundheitsbehörde und ei
 Vielen Dank an Jakob Riedl, der nicht nur Hinweisgeber für diese Geschichte war, sondern auch gleich mit medizinischem Fachwissen als Experte fungiert hat.
 "
 "GAG91: Jan van Eyck – Der König unter den Malern und die Erfindung des Gemäldes
-",1430,1712,1571,1524,"[1712, 1430, 1430]","[""Jan"", ""1430"", ""Jan""]",[],"GAG91: Jan van Eyck – Der König unter den Malern und die Erfindung des Gemäldes---
+",1430,1430,1430,1430,[1430],"[""1430""]","[""Jan"", ""Jan""]","GAG91: Jan van Eyck – Der König unter den Malern und die Erfindung des Gemäldes---
 Wir springen in dieser Episode mal wieder in die Niederlande: Dort wird um 1430 das Gemälde (neu) erfunden und die Ölmalerei setzt sich durch. Nicht nur das: Künstler, wie Jan van Eyck, sorgen dafür, dass sich Kunst und ihr Selbstverständnis radikal ändert.
 "
 "GAG90: Aufstieg und Fall des Roger Casement
@@ -2504,14 +2468,8 @@ Wir springen zurück in die 1930er Jahre und beschäftigen uns mit einem Währun
 Wir springen für diese Geschichte in die 1930er Jahre Australiens. Ein vor der Küste Sydneys gefangener Hai birgt ein Geheimnis, das einen der noch immer bekanntesten Kriminalfälle Australiens auslösen wird.
 "
 "GAG84: Eine kleine Geschichte des Klimas und des Klimawandels
-",1754,1754,1754,1754,[1754],"[""Winter""]","[""heute""]","GAG84: Eine kleine Geschichte des Klimas und des Klimawandels---
-Wir sprechen diesmal darüber, wie sich das Klima auf der Erde in den letzten 1.000 Jahren verändert hat. Dabei stehen zwei außergewöhnliche Phasen im Mittelpunkt: Die Mittelalterliche Klimaanomalie, eine Warmzeit, die von der Kleinen Eiszeit abgelöst wird, und die die Frühe Neuzeit durch kalte Winter und schlechte Ernten prägt. Es geht auch um die Frage, seit wann sich Menschen Gedanken darüber machen, wie sich das Klima verändert und ab wann das Verständnis von Klima entstanden ist, wie wir es heute kennen.
 "
 "GAG83: 100 Jahre vor der Reformation – Jan Hus und die Hussitenkriege
-",1754,1754,1754,1754,"[1754, 1754, 1754]","[""Jan"", ""Dieses Jahr"", ""Jan""]",[],"GAG83: 100 Jahre vor der Reformation – Jan Hus und die Hussitenkriege---
-Dieses Jahr jährt sich die Reformation zum 500. Mal. Allerdings gab es schon vorher Anstrengungen, die katholische Kirche zu reformieren. Eine davon war jene, die vom böhmischen Reformator Jan Hus ausging und einen jahrzehntelangen Konflikt nach sich zog.
-
-Wir sprechen über die Hussitenkriege, deren Protagonisten und welche Folgen diese Zeit für Böhmen hatte.
 "
 "GAG82: Victor Gruen und die Erfindung des Einkaufszentrums
 ",1900,1999,1949,1962,"[1900, 1999, 1970, 1979]","[""20. Jahrhunderts"", ""den 1970er-Jahren""]",[],"GAG82: Victor Gruen und die Erfindung des Einkaufszentrums---
@@ -2520,7 +2478,7 @@ Wir beschäftigen uns in dieser Folge mit einem der erfolgreichsten Architekten 
 "GAG81: Eine kurze Geschichte des Essbestecks (aber ohne Löffel)
 "
 "GAG80: Eine Kirche auf dem Dachboden – Reformation und das Goldene Zeitalter in den Niederlanden
-",1661,1899,1780,1799,"[1661, 1661, 1800, 1899, 1888, 1888]","[""1661"", ""Jan"", ""19. Jahrhunderts"", ""1888"", ""Jan""]","[""heute""]","GAG80: Eine Kirche auf dem Dachboden – Reformation und das Goldene Zeitalter in den Niederlanden---
+",1661,1899,1780,1812,"[1661, 1800, 1899, 1888]","[""1661"", ""19. Jahrhunderts"", ""1888""]","[""Jan"", ""heute"", ""Jan""]","GAG80: Eine Kirche auf dem Dachboden – Reformation und das Goldene Zeitalter in den Niederlanden---
 Wir springen nach Amsterdam: 1661 beginnt dort der Katholik Jan Hartmann, eine Kirche in sein Grachtenhaus zu bauen. Es entstand eine beeindruckende Kirche, die bis zum Ende des 19. Jahrhunderts genutzt wurde, ehe sie 1888 zu einem Museum wurde, das noch heute besucht werden kann: das Museum Ons’ Lieve Heer op Solder.
 
 Um zu klären, warum Jan Hartmann das gemacht hat, sprechen wir über eine faszinierende Zeit in der niederländischen Geschichte: Die Reformation, den Achtzigjährigen Krieg und das Goldene Zeitalter, in dem Amsterdam zu einer der bedeutendsten Städte der Welt wurde.
@@ -2530,8 +2488,6 @@ Um zu klären, warum Jan Hartmann das gemacht hat, sprechen wir über eine faszi
 Wir springen weit zurück ins Hochmittelalter: Im beginnenden 12. Jahrhundert wird mit dem ""Chanson de Roland"" ein Epos verfasst, das als eines der frühesten Exemplare der sogenannten Chanson de Geste – des Heldenpos – gilt. Wir sprechen über die eigentlichen historischen Hintergründe, die Propagandawirkung des Werkes und was auch heute noch vom Ruhm des Rolands zeugt.
 "
 "GAG78: Eine kurze Geschichte der Sommerzeit
-",1888,1888,1888,1888,"[1888, 1888]","[""März"", ""Oktober""]",[],"GAG78: Eine kurze Geschichte der Sommerzeit---
-Jedes Jahr im März stellen wir die Uhr um eine Stunde vor – und im Oktober wieder zurück. Aber die Sommerzeit gibt es nicht schon immer. In dieser Episode sprechen wir über die erstmalige Einführung der Sommerzeit und wie es dazu kam, dass sich die Umstellung der Uhren in vielen Ländern der Welt inzwischen durchgesetzt hat.
 "
 "GAG77: Der Augsburger Kalenderstreit: Folgen eines tatsächlichen Zeitsprungs
 ",1582,1582,1582,1582,"[1582, 1582, 1582]","[""Jahr 1582"", ""4. Oktober"", ""15. Oktober""]",[],"GAG77: Der Augsburger Kalenderstreit: Folgen eines tatsächlichen Zeitsprungs---
@@ -2555,8 +2511,6 @@ Wir springen etwa 100 Jahre zurück, zum Höhepunkt der anarchistischen Bewegung
 Wir springen ins 17. Jahrhundert, das in Europa v.a. von einer Person dominiert wird: Ludwig XIV., französischer Sonnenkönig. Bekannt für seinen autokratischen Führungsstil und die bleibenden kulturellen Einflüsse, ist auch seine Krankengeschichte larger than life. Wir sprechen speziell über eine Operation, die zwar recht pikant, aber auch bahnbrechend war. Und zum ersten Mal können wir auch ruhigen Gewissens behaupten, dass diese Folge nichts für schwache Nerven (oder Mägen) ist.
 "
 "GAG72: Phantominseln
-",1582,1582,1582,1582,[1582],"[""dieser Woche""]",[],"GAG72: Phantominseln---
-Wir sprechen in dieser Woche über etwas, das es nicht gibt: Phantominseln. Inseln, die in diversen Karten verzeichnet waren, aber nie existiert haben. Manche davon sind eher skurril, andere sind Sehnsuchtsorte oder auch einfach nur Hochstapeleien oder Kopierfehler. Aber hinter allen Inseln stecken erzählenswerte Geschichten.
 "
 "GAG71: Wie die Kartoffel nach Europa kam (und alles veränderte)
 "
@@ -2593,7 +2547,7 @@ Wir beschäftigen uns in dieser Episode mit der Geschichte der Quantenphysik und
 Wir springen ins 15. Jahrhundert und direkt in die Mitte des osmanischen Heers. Gefürchtet über Jahrhunderte, wurde ihre Eliteeinheit, die Janitscharen, ursprünglich hauptsächlich aus christlichen Jungen rekrutiert. Wir sprechen über einen von ihnen, Konstantin von Ostrovitza, und was die Janitscharen so besonders machte (und warum sie schlussendlich dann doch aufhörten zu existieren).
 "
 "GAG62: Eine kurze Geschichte der Rollschuhe und des Rollschuhfahrens
-",1800,1949,1874,1885,"[1800, 1899, 1863, 1863, 1940, 1949]","[""19. Jahrhunderts"", ""1863"", ""Sommer"", ""die 1940er Jahre""]",[],"GAG62: Eine kurze Geschichte der Rollschuhe und des Rollschuhfahrens---
+",1800,1949,1874,1890,"[1800, 1899, 1863, 1940, 1949]","[""19. Jahrhunderts"", ""1863"", ""die 1940er Jahre""]","[""Sommer""]","GAG62: Eine kurze Geschichte der Rollschuhe und des Rollschuhfahrens---
 Wir springen zurück in die Mitte des 19. Jahrhunderts, wo sich eine neue Art der Freizeitbeschäftigung etabliert: 1863 patentiert James Leonard Plimpton einen Rollschuh, nachdem er im Sommer das Schlittschuhfahren im New Yorker Central Park vermisst. Zunächst ein Vergnügen für die reiche Oberschicht, wird das Rollschuhfahren bis in die 1940er Jahre, neben Bowling, zur beliebtesten Freizeitbeschäftigung in den USA.
 "
 "GAG61: Die niederländische ""Tulpenmanie"" (und warum sie gar nicht so schlimm war)
@@ -2613,8 +2567,6 @@ Wir springen in diesem Zeitsprung ins 16. Jahrhundert und beleuchten die ersten 
 London, 30. September 1661: Ein Streit darüber, ob die französische Delegation oder die spanische Delegation zur Begrüßung des neuen schwedischen Botschafters mit den Kutschen vorneweg fahren darf, eskaliert – und fordert mehrere Todesopfer. Der Londoner Kutschenstreit ist aber nur der Höhepunkt einer viel längeren Auseinandersetzung. Gemeinsam mit Elisabeth, die zum Thema Gesandtschaftszeremoniell forscht und die vor einigen Wochen den History Slam in Hamburg gewonnen hat, schauen wir uns die Hintergründe des Streits an.
 "
 "GAG57: Von Grabtüchern, Knochen und wieder mal Venedig
-",1661,1661,1661,1661,[1661],"[""diese Woche""]",[],"GAG57: Von Grabtüchern, Knochen und wieder mal Venedig---
-Wir springen diese Woche wieder sehr weit zurück und sprechen über Reliquien, die Heiligen der Katholischen Kirche und einen nicht ganz unbemerkenswerten Diebstahl.
 "
 "GAG56: Piggly Wiggly und die Geschichte des Supermarkts
 ",1916,1916,1916,1916,[1916],"[""1916""]","[""heute""]","GAG56: Piggly Wiggly und die Geschichte des Supermarkts---
@@ -2697,11 +2649,11 @@ Im 18. Jahrhundert häufen sich an den Rändern der Habsburger Monarchie Fälle 
 Wir springen in diesem Zeitsprung zurück ins 18. Jahrhundert, wandern dann weiter bis ins mittlere 19. Jahrhundert, und sehen uns an, welche Auswirkungen der unbändige Durst der Briten nach Tee für China hatte. Auswirkungen, die direkt bis tief ins 20. Jahrhundert, indirekt bis heute zu spüren sind.
 "
 "GAG33: Curta – eine Rechenmaschine und ihre Geschichte
-",1930,1947,1938,1938,"[1936, 1930, 1939, 1947]","[""dieser Woche"", ""den 1930er Jahren"", ""1947""]",[],"GAG33: Curta – eine Rechenmaschine und ihre Geschichte---
+",1930,1947,1938,1938,"[1930, 1939, 1947]","[""den 1930er Jahren"", ""1947""]","[""dieser Woche""]","GAG33: Curta – eine Rechenmaschine und ihre Geschichte---
 In dieser Woche widmen wir uns der Geschichte einer mechanischen Rechenmaschine und dem bewegten Schicksal ihres Erfinders: Der Wiener Curt Herzstark entwarf die Curta in den 1930er Jahren und beendete die Pläne im KZ Buchenwald, ehe die kleinste serienmäßig produzierte Vier-Spezies-Rechenmaschine der Welt in Liechtenstein ab 1947 hergestellt wurde.
 "
 "GAG32: Henry Gunther
-",1895,1936,1915,1915,"[1936, 1895]","[""diese Woche"", ""Jahr 1895""]",[],"GAG32: Henry Gunther---
+",1895,1895,1895,1895,[1895],"[""Jahr 1895""]","[""diese Woche""]","GAG32: Henry Gunther---
 Wir springen diese Woche nicht weit zurück: Wir starten im Jahr 1895 mit der Geburt eines Mannes namens Henry Gunther und begleiten sein Leben einige Zeit. Was es mit Henry Gunther genau auf sich hat, sei hier jedoch noch nicht verraten.
 "
 "GAG31: Blitzkrieg im Fußballstadion
@@ -2771,8 +2723,6 @@ Ein besonderer Dank geht an Martin Fischer, der den sehr hörenswerten Podcast S
 "GAG16: Ton, Steine, Scherben oder wie Rom sich einen achten Hügel baute
 "
 "GAG15: Das Mailüfterl
-",1156,1156,1156,1156,[1156],"[""diesem Jahr""]",[],"GAG15: Das Mailüfterl---
-Der erste Zeitsprung in diesem Jahr führt uns in die Computergeschichte: Es geht um einen Computerpionier, der nicht nur einen der ersten Volltransistor-Rechenautomaten in Europa gebaut hat, sondern auch für eine Programmiersprache verantwortlich war.
 "
 "GAG14: Ein englisches Atlantis
 "
@@ -2809,8 +2759,6 @@ Im Oktober 1834 wird in London eine fatale Entscheidung getroffen: Wir sprechen 
 Wir springen nur wenige Jahrzehnte zurück in das Jahr 1981: Der österreichische Bundeskanzler Bruno Kreisky gibt im Pressefoyer ein denkwürdiges Fernsehinterview. Einen kurzen Ausschnitt dieses Interviews kennen treue Zeitsprung-HörerInnen – aus unserem Jingle. Wir üben uns ein wenig in Quellenkritik und fragen uns, was es mit der Aufforderung Geschichte zu lernen, überhaupt auf sich hat.
 "
 "GAG04: Wellingtons Rache, oder: Ein Bein für ein Königreich
-",1913,1913,1913,1913,[1913],"[""letzten Tag""]",[],"GAG04: Wellingtons Rache, oder: Ein Bein für ein Königreich---
-Wir springen in die Zeit der napoleonischen Kriege, genauer zu ihrer finalen Schlacht: Bei Waterloo findet nicht nur die Herrschaft der hundert Tage ein Ende, auch ein Bein sieht seinen letzten Tag. Wir erzählen euch, was es damit auf sich hat.
 "
 "GAG03: Fitness-Parcours für den Pharao
 "
